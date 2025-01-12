@@ -15,7 +15,7 @@
 
 اولین کتابی که قصد دارم در این مخزن بخوانم و خلاصه آن را منتشر کنم، **Building Large-Scale Web Apps with React** است. این کتاب به بررسی عمیق ساخت اپلیکیشن‌های تحت وب قدرتمند، مقیاس‌پذیر و قابل نگهداری با استفاده از React می‌پردازد. منتظر یادداشت‌ها و بینش‌های من در طول خواندن این کتاب باشید.
 
-[دانلود کتاب Building Large-Scale Web Apps with React](https://example.com/download/building-large-scale-web-apps-with-react.pdf)
+[دانلود کتاب Building Large-Scale Web Apps with React](https://www.everand.com/book/717920693/Building-large-scale-web-apps)
 
 ---
 
@@ -36,7 +36,7 @@ I believe that knowledge sharing helps not only the sharer but also the entire c
 
 The first book I plan to read and summarize in this repository is **Building Large-Scale Web Apps with React**. This book dives deep into building robust, scalable, and maintainable web applications using React. Stay tuned for detailed notes and insights as I progress through the book.
 
-[Download Building Large-Scale Web Apps with React](https://example.com/download/building-large-scale-web-apps-with-react.pdf)
+[Download Building Large-Scale Web Apps with React](https://www.everand.com/book/717920693/Building-large-scale-web-apps)
 
 ---
 
