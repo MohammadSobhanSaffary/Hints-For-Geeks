@@ -345,7 +345,7 @@ function VirtualizedList({ items }) {
 ```
 
 **منابع برای مطالعه بیشتر:**
-- [Virtualization (web.dev)](https://web.dev/virtualization/)
+- [Virtualization (patterns.dev)](https://www.patterns.dev/vanilla/virtual-lists/)
 - [Virtualized Lists (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
 
 ---
